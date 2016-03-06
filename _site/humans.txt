@@ -1,0 +1,22 @@
+/* TEAM */
+
+Name: calmcomputer
+Site: http://www.calmcomputer.com/
+Twitter: @calmcomputer
+
+
+/* THANKS */
+
+Name: Moritz »mo.« Sauer
+Role: Creator of the Theme
+Site: http://mo.phlow.de/
+Twitter: @phlow
+Theme: http://phlow.github.io/feeling-responsive/
+
+
+/* SITE */
+
+Last Updated: 2016/03/06
+Standards: HTML5, CSS3
+Software: Sublime Text, Chrome, Jekyll, Git, Imageoptim, JPEGMini, Gulp.js, Sass
+Components: Foundation Framework, Modernizr, jQuery, Backstretch.js, Reveal

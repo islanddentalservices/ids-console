@@ -1,0 +1,35 @@
+  
+- title: "Home"
+  url: "/"
+  side: left
+  
+- title: "Admin"
+  side: left
+  dropdown:
+  - title: "Edit Website Content"
+    url: "/edit-website-content/"
+  - title: "Post to Blog"
+    url: "/page-under-construction-message/"
+  - title: "Review-us Leaflet"
+    url: "/downloads/review-us-leaflet.pdf/"
+    
+- title: "Analytics"
+  side: left
+  dropdown:
+  - title: "Monitor Reviews"
+    url: "/page-under-construction-message/"
+  - title: "Google Analytics"
+    url: "/page-under-construction-message/"
+  - title: "Google Adwords"
+    url: "/page-under-construction-message/"
+    
+- title: "Help"
+  side: left
+  dropdown:
+  - title: "IDS Website Manual"
+    url: "/page-under-construction-message/"
+  - title: "Social Media Manual"
+    url: "/page-under-construction-message/"
+
+
+  

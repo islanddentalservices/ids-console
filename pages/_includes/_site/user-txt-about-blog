@@ -1,0 +1,1 @@
+We're committed to Preventive Dentistry.<br/><br/>This is a place for us to post articles and tips about dental health.<br/><br/>Occasionally we'll add in topics of wider local interest and even the adventures of our staff!<br/><br/> We'll try to be informative and entertaining. 
