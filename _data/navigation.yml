@@ -32,6 +32,8 @@
 - title: "Help"
   side: left
   dropdown:
+  - title: "Contact Developers"
+    url: "/contact-developers/"
   - title: "IDS Website Guide"
     url: "/website-guide/"
   - title: "Social Media Guide"

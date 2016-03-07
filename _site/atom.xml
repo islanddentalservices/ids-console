@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>IDS Website Admin</title>
-	<updated>2016-03-06T19:19:53+00:00</updated>
+	<updated>2016-03-07T08:46:38+00:00</updated>
 
 	<subtitle></subtitle>
 
@@ -12,7 +12,7 @@
 		
 		<author>
 			
-				<name>calmcomputer</name>
+				<name>calmcodev</name>
 			
 			
 			
