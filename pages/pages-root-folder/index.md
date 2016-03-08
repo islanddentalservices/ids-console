@@ -10,15 +10,13 @@ permalink: /index.html
  
 ### What can I do here?
 
-+ **Edit**  {% include config/target-website-name %} website. For example, update prices or add a new staff biography.  
-
++ **Edit**  the {% include config/target-website-name %} website. For example, update prices or add a new staff biography.  
 
 + **Upload** Blog Posts.
 
-+ **Download resourcesin printable format**
- 
++ **Download** resources in printable format. 
 
-+ **See Help Guides online**
++ **See Help Guides** online.
 
 + **Access**
     + Your Google Analytics account.  

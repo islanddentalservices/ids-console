@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Edit Website Content"
+title: "Edit Contact Details"
 show_meta: false
 permalink: "/edit-content-contact/"
 
@@ -23,7 +23,7 @@ permalink: "/edit-content-contact/"
 ##### Phone Number
 <a href="http://prose.io/#islanddentalservices/ids/edit/gh-pages/_includes/user-edit/Contact-Phone-Number.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="Edit website content for Fillings" border="0" /></a>
 
-##### Postal Adress
+##### Postal Address
 <a href="http://prose.io/#islanddentalservices/ids/edit/gh-pages/_includes/user-edit/Contact-Postal-Address.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="Edit website content for Implants" border="0" /></a>  
 
 
