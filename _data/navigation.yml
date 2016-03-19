@@ -14,6 +14,8 @@
     url: "/edit-content-prices/"
   - title: "Team"
     url: "/edit-content-team/"
+  - title: "Practice"
+    url: "/edit-content-practice/"
   - title: "Blog"
     url: "/edit-content-blog/"
     
