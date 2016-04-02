@@ -11,7 +11,7 @@ permalink: "/analytics/"
 + TODO: resolve how these scary technical links should be integrated.
 
 #### Google Analytics
-<a class="radius button small" href="https://www.google.com/webmasters/tools/dashboard?hl=en&siteUrl=http://islanddentalservices.github.io/idsonline/">OPEN</a>
+<a class="radius button small" href="https://www.google.com/webmasters/tools/dashboard?hl=en&siteUrl=https://islanddentalservices.com">OPEN</a>
 
 #### Webmaster Tools
 <a class="radius button small" href="https://www.google.com/webmasters/tools/home?hl=en">OPEN</a> 
