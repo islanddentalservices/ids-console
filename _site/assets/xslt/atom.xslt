@@ -315,11 +315,6 @@
 
                       <li><a href="http://localhost:4000/contact-developers/">Contact Developers</a></li>
                     
-
-                      
-
-                      <li><a href="http://localhost:4000/website-guide/">IDS Website Guide</a></li>
-                    
                   </ul>
                   
               </li>
