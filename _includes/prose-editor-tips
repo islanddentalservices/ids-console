@@ -2,3 +2,9 @@
 The pencil button(s) below will open the "Prose" website content editor.  Prose is easy to use but if it's your first time or if you are are unsure, here's a video to show you how...  
 <a class="radius button small" href="{{ site.url }}/page-under-construction/">VIDEO</a> 
 {% endcomment %}
+
++ The pencil button(s) below will open the "Prose" website content editor.  
+
++ When you get into Prose, press the green button ( bottom right of the screen) before you do any editing. If you edit without logging in, your changes will be lost!
+
++ When you get into Prose, if you can't see the green button that means you are already logged in, so go ahead and edit.
