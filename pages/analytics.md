@@ -6,9 +6,12 @@ noindex: true
 permalink: "/analytics/"
 --- 
 
-+ Here you can access online services that will measure how the {% include config/target-website-name %} website is performing, how fast it is loading on viewers' devices, how many hits it is getting an so on.
++ Here you can access online services that will measure how the {% include config/target-website-name %} website is performing, how fast it is loading on viewers' devices, how many hits it is getting and so on.
 
-+ TODO: resolve how these scary technical links should be integrated.
++ Using this feature requires some technical knowledge - you don't need to use it for day-to-day website tasks. 
+
+#### CloudFlare
+<a class="radius button small" href="https://www.cloudflare.com/a/overview/islanddentalservices.com">OPEN</a>
 
 #### Google Analytics
 <a class="radius button small" href="https://www.google.com/webmasters/tools/dashboard?hl=en&siteUrl=https://islanddentalservices.com">OPEN</a>

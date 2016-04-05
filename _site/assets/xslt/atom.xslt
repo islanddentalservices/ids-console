@@ -320,16 +320,6 @@
 
                       <li><a href="http://localhost:4000/website-guide/">IDS Website Guide</a></li>
                     
-
-                      
-
-                      <li><a href="http://localhost:4000/social-media-guide/">Social Media Guide</a></li>
-                    
-
-                      
-
-                      <li><a href="http://localhost:4000/guide-markdown/">SEO Guide</a></li>
-                    
                   </ul>
                   
               </li>

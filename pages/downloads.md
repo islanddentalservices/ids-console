@@ -15,6 +15,3 @@ permalink: "/downloads/"
 <a class="radius button small" href="{{ site.url }}/page-under-construction/">DOWNLOAD</a>  
 
 
-#### Social Media Guide (pdf file)
-<a class="radius button small" href="{{ site.url }}/page-under-construction/">DOWNLOAD</a>  
-
