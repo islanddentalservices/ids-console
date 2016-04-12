@@ -58,10 +58,10 @@ permalink: "/edit-content-services/"
 #### Lost Teeth (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Lost-Teeth.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Tooth Grinding (teaser) 
+#### Tooth Grinding/ Jaw Clenching (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Bruxism.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Tooth Grinding (details)
+#### Tooth Grinding/ Jaw Clenching (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Bruxism.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
