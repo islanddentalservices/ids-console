@@ -7,6 +7,9 @@ permalink: "/edit-content-services/"
 ---
 {% include prose-editor-tips %}  
 
+#### Services Preamble 
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Preamble.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
+
 #### Hygienist (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Hygienist.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
@@ -35,17 +38,17 @@ permalink: "/edit-content-services/"
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Crowns.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
-#### Root Canals (teaser) 
+#### Root Canal Treatment (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Root-Canals.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Root Canals (details)
+#### Root Canal Treatment (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Root-Canals.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
-#### Dentures (teaser) 
+#### Full Dentures (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Dentures.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Dentures (details)
+#### Full Dentures (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Dentures.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
@@ -55,18 +58,29 @@ permalink: "/edit-content-services/"
 #### Lost Teeth (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Lost-Teeth.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
+#### Tooth Grinding (teaser) 
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Bruxism.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Extractions (teaser) 
+#### Tooth Grinding (details)
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Bruxism.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
+
+
+#### Extractions/ Oral Surgery (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Extractions.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Extractions (details)
+#### Extractions/ Oral Surgery (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Extractions.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
+#### Orthodontics/ Tooth Straightening (teaser) 
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Othodontics.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Loose Teeth (teaser) 
+#### Orthodontics/ Tooth Straightening (details)
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Orthodontics.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
+
+#### Loose Teeth/ Gum Disease (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Loose-Teeth.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Loose Teeth (details)
+#### Loose Teeth/ Gum Disease (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Loose-Teeth.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
@@ -76,10 +90,10 @@ permalink: "/edit-content-services/"
 #### Snoring and Sleep Apnoea (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Snoring-Sleep-Apnoea.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Nervous patient programs (teaser) 
+#### Nervous Patient Programs (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Nervous-Patient-Programs.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Nervous patient programs (details)
+#### Nervous Patient Programs (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Nervous-Patient-Programs.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 #### Emergency Treatment
