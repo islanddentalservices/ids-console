@@ -13,8 +13,10 @@ permalink: "/analytics/"
 #### CloudFlare
 <a class="radius button small" href="https://www.cloudflare.com/a/overview/islanddentalservices.com">OPEN</a>
 
+{% comment %}
 #### Google Analytics
 <a class="radius button small" href="https://www.google.com/webmasters/tools/dashboard?hl=en&siteUrl=https://islanddentalservices.com">OPEN</a>
+{% endcomment %}
 
 #### Webmaster Tools
 <a class="radius button small" href="https://www.google.com/webmasters/tools/home?hl=en">OPEN</a> 

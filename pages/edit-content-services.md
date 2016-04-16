@@ -72,7 +72,7 @@ permalink: "/edit-content-services/"
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Extractions.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 #### Orthodontics/ Tooth Straightening (teaser) 
-<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Othodontics.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
+<a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Orthodontics.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 #### Orthodontics/ Tooth Straightening (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Orthodontics.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  

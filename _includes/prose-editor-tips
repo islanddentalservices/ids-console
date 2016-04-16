@@ -1,10 +1,8 @@
-{% comment %}
-The pencil button(s) below will open the "Prose" website content editor.  Prose is easy to use but if it's your first time or if you are are unsure, here's a video to show you how...  
-<a class="radius button small" href="{{ site.url }}/page-under-construction/">VIDEO</a> 
-{% endcomment %}
-
 + The pencil button(s) below will open the "Prose" website content editor.  
 
 + When you get into Prose, press the green button ( bottom right of the screen) before you do any editing. If you edit without logging in, your changes will be lost!
 
-+ When you get into Prose, if you can't see the green button that means you are already logged in, so go ahead and edit.
++ If you have got into Prose and you can't see the green button that means you are already logged in, so go ahead and edit.
+
++ It is possible that you could get a message saying "403 Forbidden - API rate limit exceeded" when you open Prose. **Ignore it and log in.** You would see this message if you had looked at a lot of pages without using the green button to log into Prose. This is a security measure to deter spammers and suchlike from using Prose's servers.
+
