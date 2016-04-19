@@ -31,10 +31,10 @@ permalink: "/edit-content-services/"
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Fillings.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
-#### Crowns (teaser) 
+#### Bridges and Crowns (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Crowns.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Crowns (details)
+#### Bridges and Crowns (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Crowns.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
@@ -45,10 +45,10 @@ permalink: "/edit-content-services/"
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Root-Canals.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
-#### Full Dentures (teaser) 
+#### Dentures (teaser) 
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Teaser-Dentures.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
-#### Full Dentures (details)
+#### Dentures (details)
 <a href="http://prose.io/{% include config/target-website-prose-url %}/edit/gh-pages/_includes/user-edit/Services-Details-Dentures.md"><img src="{{ site.urlimg }}/edit-button.png"  alt="" border="0" /></a>  
 
 
